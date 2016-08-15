@@ -6,3 +6,4 @@
 * https://www.youtube.com/watch?v=v5PXuNSO204
 * https://www.youtube.com/watch?v=dDclOQNlVKw
 * https://www.youtube.com/watch?v=dDclOQNlVKw
+* https://realm.io/news/kelly-shuster-android-is-for-everyone/
