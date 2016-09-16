@@ -9,3 +9,4 @@
 * https://realm.io/news/kelly-shuster-android-is-for-everyone/
 * https://www.youtube.com/watch?v=79PSagCD_AY
 * https://twitter.com/wincent/status/766434219874672640
+* https://www.youtube.com/playlist?list=PLUD4kD-wL_zYSfU3tIYsb4WqfFQzO_EjQ
